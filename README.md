@@ -1,4 +1,4 @@
-We took the legacy app.buzzn.net offline when it's SSL certificiate expired. This is a temporary notice/placeholder until we release the new admin.buzzn.io / display.buzzn.io apps.
+We took the legacy app.buzzn.net offline when it's SSL certificate expired. This is a temporary notice/placeholder HTML page until we release the new admin.buzzn.io and display.buzzn.io apps.
 
 **How to deploy**
 
