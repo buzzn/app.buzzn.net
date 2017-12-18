@@ -1,1 +1,1 @@
-# app.buzzn.net
+This is a maintainance / "down" page for app.buzzn.net. We took the legacy app offline when we started having SSL certificiate issues, since it will be replaced soon anyhow.
